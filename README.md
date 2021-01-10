@@ -11,8 +11,8 @@ path_provider: ^1.6.27
 signature: ^3.2.0
 
 Provide The Permission in AndroidManifest.xml
-<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+WRITE_EXTERNAL_STORAGE
+READ_EXTERNAL_STORAGE
 
 Functions
 - Signature pad
